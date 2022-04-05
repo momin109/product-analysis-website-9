@@ -1,0 +1,15 @@
+.navber {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: rgb(28, 53, 99);
+    height: 50px;
+}
+
+.navber li a {
+    margin-top: 15px;
+    margin-right: 20px;
+    font-size: 20px;
+    color: white;
+}
