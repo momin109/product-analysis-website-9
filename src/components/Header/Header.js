@@ -1,10 +1,20 @@
 import React from 'react';
 
+import './Header.css'
+
 const Header = () => {
+
     return (
-        <div>
-            <h3>this is header</h3>
-        </div>
+        <nav>
+
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">Review</a></li>
+                <li><a href="">Dashboard</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Blogs</a></li>
+            </ul>
+        </nav>
     );
 };
 
