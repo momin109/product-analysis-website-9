@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Star Tech live site https://scintillating-chebakia-2e07c5.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
