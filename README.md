@@ -2,9 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## * Set different list item markers for ordered lists
+## *Set different list item markers for unordered lists
+## *Set an image as the list item marker
+## *Add background colors to lists and list items
 
-In the project directory, you can run:
+
 
 ### `npm start`
 
