@@ -7,7 +7,7 @@ const Review = ({ review }) => {
         my-6 m-6'>
             <h2>Name : {name}</h2>
             <h4>{comment}</h4>
-            <h4>{rating}</h4>
+            <h4>Rating: {rating}</h4>
         </div>
     );
 };

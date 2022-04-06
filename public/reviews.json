@@ -1,50 +1,50 @@
 [
     {
         "id": "1",
-        "name": "Headphone",
+        "name": "Sumon Hasan",
         "price": 30,
         "img": "./image/Headphone.jpg",
         "comment": "I received another organizing product to review, so this is just perfect. Thanks!!!",
-        "rating": "4.8"
+        "rating": "4.8 star"
     },
     {
         "id": "2",
-        "name": "on Ear Headphone",
+        "name": "Ruhul Amin",
         "price": 26,
         "img": "./image/on-Ear-Headphone.jpg",
         "comment": "This will be helpful for my next one. Thanks think media",
-        "rating": "4.8"
+        "rating": "4.8 star"
     },
     {
         "id": "3",
-        "name": "over ear headphone",
+        "name": "Abdul wadud",
         "price": 25,
         "img": "./image/over.ear-headphone.jpg",
         "comment": "I was just about to film a review, but now I might revise it based on your tips! Thanks a lot ",
-        "rating": "4.8"
+        "rating": "4.8 star"
     },
     {
         "id": "4",
-        "name": "iphone-12",
+        "name": "Abdul Momin",
         "price": 320,
         "img": "./image/iphone-1.png",
         "comment": "When mentioning price can that pose any issues with your affiliate links",
-        "rating": "4.8"
+        "rating": "4.8 star"
     },
     {
         "id": "5",
-        "name": "oppo",
+        "name": "Mehedi Hasan",
         "price": 120,
         "img": "./image/oppo.jpg",
         "comment": "Perfect timing I'm just about to do a review video this week, thanks so much this will help me out so much!",
-        "rating": "4.8"
+        "rating": "4 star"
     },
     {
         "id": "6",
-        "name": "samsung",
+        "name": "Samim Ali",
         "price": 150,
         "img": "./image/samsung.jpg",
         "comment": "Thank you for this extremely helpful video. I appreciate your thorough, clear delivery",
-        "rating": "4.8"
+        "rating": "4 star"
     }
 ]
