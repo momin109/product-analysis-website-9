@@ -6,7 +6,7 @@ const Reviews = () => {
     const [reviews] = useContext(ReviewsContext)
     return (
         <div>
-            <h2>Customer Reviews (6)</h2>
+            <h2 className='text-3xl font-bold text-center mt-4'>Customer Reviews (6)</h2>
             <div className='grid grid-cols-3'>
                 {
                     reviews.map(review => <Review
